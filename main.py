@@ -2,8 +2,9 @@ import sys
 import os
 
 def main():
-    content_download()
     print("here")
+    content_download()
+    
 
 
 def content_download():
