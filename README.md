@@ -58,4 +58,9 @@ Clients should correctly handle file names containing white space characters
 # 3: Make sure to create tests for the code (especially for things like white space and $Area (deprecated))
 
 
+Prototype:
+Step 1: Brute Force
+Step 2: Optimize for time complexity
+Step 3: Refactor
+
 
